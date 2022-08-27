@@ -1,0 +1,13 @@
+History/
+*/Project Logs for*/
+*/Project Outputs for*/
+__Previews/
+*.PrjPcbStructure
+*.7z
+*.zip
+
+# debug and compile docments
+DebugConfig/
+Listings/
+Objects/
+RTE/
