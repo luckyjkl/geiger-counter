@@ -2,7 +2,7 @@
 
 盖革管型号SI3BG，这个型号的盖革管价格便宜，量程比较大，灵敏度比较低，所以测量结果仅供参考。
 
-<img title="" src="file:///C:/Project/电路工程/系统工程/盖革计数器/盖革计数器v2.2.1/image/geiger.png" alt="" width="300" data-align="center">
+<img title="" src="./image/geiger.png" alt="" width="300" data-align="center">
 
 ## 1. 工程说明
 
